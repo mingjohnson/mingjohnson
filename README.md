@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there I am Ming Johnson👋
 
+I am currently studing in CUHK and love to learn new things!
 <!--
 **mingjohnson/mingjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
